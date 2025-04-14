@@ -20,7 +20,14 @@ Installation & User Guide
 
   •	Update Tasks: Tap the pencil icon, retype task name, press save.
   
-  •	Take Photo: Tap the camera icon, take photo.
+  •	Take Photo: 
+  
+    1.	Tap the camera icon to begin the photo capture.
+    
+    2.	Press the ‘photo’ button to capture and save the photo.
+    
+    3.      Press the camera icon button to view the image taken.
+    
   
   •	Persistent Storage: Tasks remain after restart.
   
